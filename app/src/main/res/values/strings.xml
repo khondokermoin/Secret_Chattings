@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Secret_Chattings</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="secret_capp">Secret.cApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">sign_in</string>
+    <string name="create_new_account">create new account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Signup</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign__in">Sign In</string>
+    <string name="secret_c_app">Secret C App</string>
+    <string name="Name">Name</string>
+    <string name="Create_new_account">Create new account</string>
+    <string name="select_user">Select user</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">Online</string>
+</resources>

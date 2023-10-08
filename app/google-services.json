@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661154801003",
+    "project_id": "secret-c-cdd19",
+    "storage_bucket": "secret-c-cdd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661154801003:android:ad96d123c50922d7b8982e",
+        "android_client_info": {
+          "package_name": "com.example.secret_chattings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ZzXINm6dqbGN7Kc1cHYPv2NEXJerknY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
